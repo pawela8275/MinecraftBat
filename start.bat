@@ -1,0 +1,2 @@
+minecraftbat
+exit
